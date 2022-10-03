@@ -26,5 +26,10 @@
     * curve_fit
 * [enum](https://pypi.org/project/enum/)
 
-## BibTeX
+## Markdown
+* [Obsidian Markdown Guide](https://help.obsidian.md/How+to/Format+your+notes)
+* [GitHub Markdown Guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+## LaTeX and BibTeX
+* [Overleaf LaTeX Guide](https://www.overleaf.com/learn)
 * [ACM BibTeX Formatting](https://www.acm.org/publications/authors/bibtex-formatting)

@@ -13,6 +13,7 @@
   * BeautifulSoup
 * [enum](https://docs.python.org/3/library/enum.html)
 * [getmac](https://pypi.org/project/getmac/)
+* [bibtexparser](https://pypi.org/project/bibtexparser/)
 
 
 ### Networking

@@ -108,3 +108,11 @@ def generate_random_duid():
         # TODO: use uuid module instead
 
         return '{}:{}'.format(duid_type_str, ':'.join(octets))
+
+    
+# from https://www.codegrepper.com/code-examples/python/random+datetime+generator+python
+def generate_rand_datetime(range_start, range_end):
+    delta = range_end - range_start
+    int_delta = (delta.days * 24 * 60 * 60) + delta.seconds
+    rand_secs = randrange(int_delta)
+    return to_epoch_time(range_start + timedelta(seconds=rand_secs))    

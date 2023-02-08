@@ -1,0 +1,32 @@
+Terminal background color: #111111
+Terminal text color: #FFFFFF
+Bold color: #F43591
+Cursor text color:
+Cursor background color:
+Highlight text color:
+Highlight background color:
+
+Color palette:
+Muted sapphire #0946B7
+Bright sapphire #0C50E6
+
+Muted fuschia #CE33C0
+Bright fuschia #F342E3
+
+Muted green #519B0B
+Bright green #75E00C
+
+Muted gold #C38300
+Bright gold #FFAB00
+
+Muted blue #0099E1
+Bright blue #3CC0FF
+
+Muted purple #8761C5
+Bright purple #935DED
+
+Muted sky #56C2D6
+Bright sky #8CEDFF
+
+Muted white #D3D7CF
+Bright white #EEEEEC

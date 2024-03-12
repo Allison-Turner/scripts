@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opml version="1.0">
+  <head>
+    <title>Liferea Feed List Export</title>
+  </head>
+  <body>
+    <outline title="Magazines &amp; News" text="Magazines &amp; News" description="Magazines &amp; News" type="folder">
+      <outline title="404 Media" text="404 Media" description="404 Media" type="rss" xmlUrl="https://www.404media.co/rss/" htmlUrl="https://www.404media.co/"/>
+      <outline title="Abortion, Every Day" text="Abortion, Every Day" description="Abortion, Every Day" type="rss" xmlUrl="https://jessica.substack.com/feed" htmlUrl="https://jessica.substack.com"/>
+      <outline title="About Face" text="About Face" description="About Face" type="rss" xmlUrl="https://aboutfaceveterans.org/feed/" htmlUrl="https://aboutfaceveterans.org"/>
+      <outline title="Access Now" text="Access Now" description="Access Now" type="rss" xmlUrl="https://www.accessnow.org/feed/" htmlUrl="https://www.accessnow.org/"/>
+      <outline title="Active History" text="Active History" description="Active History" type="rss" xmlUrl="http://feeds.feedburner.com/activehistoryca" htmlUrl="https://activehistory.ca"/>
+      <outline title="Aeon" text="Aeon" description="Aeon" type="rss" xmlUrl="https://aeon.co/feed.rss" htmlUrl="https://aeon.co"/>
+      <outline title="Alec’s Copaganda Newsletter" text="Alec’s Copaganda Newsletter" description="Alec’s Copaganda Newsletter" type="rss" xmlUrl="https://equalityalec.substack.com/feed" htmlUrl="https://equalityalec.substack.com"/>
+      <outline title="Anarchist Writers" text="Anarchist Writers" description="Anarchist Writers" type="rss" xmlUrl="https://anarchism.pageabode.com/feed/" htmlUrl="https://anarchism.pageabode.com"/>
+      <outline title="anarchistnews.org" text="anarchistnews.org" description="anarchistnews.org" type="rss" xmlUrl="https://anarchistnews.org/rss.xml" htmlUrl="https://anarchistnews.org"/>
+      <outline title="Ars Technica" text="Ars Technica" description="Ars Technica" type="rss" xmlUrl="http://feeds.arstechnica.com/arstechnica/index" htmlUrl="https://arstechnica.com"/>
+      <outline title="Asterisk" text="Asterisk" description="Asterisk" type="rss" xmlUrl="https://asteriskmag.com/feed" htmlUrl="https://asteriskmag.com"/>
+      <outline title="Atlanta Community Press Collective." text="Atlanta Community Press Collective." description="Atlanta Community Press Collective." type="rss" xmlUrl="https://atlpresscollective.com/feed/" htmlUrl="https://atlpresscollective.com"/>
+      <outline title="bellingcat" text="bellingcat" description="bellingcat" type="rss" xmlUrl="https://www.bellingcat.com/rss" htmlUrl="https://www.bellingcat.com/"/>
+      <outline title="Blood in the Machine" text="Blood in the Machine" description="Blood in the Machine" type="rss" xmlUrl="https://www.bloodinthemachine.com/feed" htmlUrl="https://www.bloodinthemachine.com"/>
+      <outline title="Border Aid News Updates" text="Border Aid News Updates" description="Border Aid News Updates" type="rss" xmlUrl="https://borderaidsandiego.org/rss.xml" htmlUrl="https://borderaidsandiego.org"/>
+      <outline title="Borderless Magazine NFP" text="Borderless Magazine NFP" description="Borderless Magazine NFP" type="rss" xmlUrl="https://borderlessmag.org/feed/" htmlUrl="https://borderlessmag.org/"/>
+      <outline title="Briarpatch" text="Briarpatch" description="Briarpatch" type="rss" xmlUrl="https://briarpatchmagazine.com/feed" htmlUrl="https://briarpatchmagazine.com"/>
+      <outline title="Center for a Stateless Society" text="Center for a Stateless Society" description="Center for a Stateless Society" type="rss" xmlUrl="https://c4ss.org/feed" htmlUrl="https://c4ss.org"/>
+      <outline title="Citation Needed" text="Citation Needed" description="Citation Needed" type="rss" xmlUrl="https://www.citationneeded.news/rss/" htmlUrl="https://www.citationneeded.news/"/>
+      <outline title="Co-operative News" text="Co-operative News" description="Co-operative News" type="rss" xmlUrl="https://www.thenews.coop/feed/" htmlUrl="https://www.thenews.coop"/>
+      <outline title="Coalition for Independent Technology Research" text="Coalition for Independent Technology Research" description="Coalition for Independent Technology Research" type="rss" xmlUrl="https://independenttechresearch.org/feed/" htmlUrl="https://independenttechresearch.org/"/>
+      <outline title="Cory Doctorow's craphound.com" text="Cory Doctorow's craphound.com" description="Cory Doctorow's craphound.com" type="rss" xmlUrl="https://craphound.com/feed" htmlUrl="https://craphound.com"/>
+      <outline title="CounterPunch.org" text="CounterPunch.org" description="CounterPunch.org" type="rss" xmlUrl="https://www.counterpunch.org/feed/" htmlUrl="https://www.counterpunch.org/"/>
+      <outline title="CrimethInc." text="CrimethInc." description="CrimethInc." type="atom" xmlUrl="https://crimethinc.com/feed" htmlUrl="https://crimethinc.com/"/>
+      <outline title="Critical AI" text="Critical AI" description="Critical AI" type="rss" xmlUrl="https://criticalai.org/feed/" htmlUrl="https://criticalai.org"/>
+      <outline title="Erin In The Morning" text="Erin In The Morning" description="Erin In The Morning" type="rss" xmlUrl="https://www.erininthemorning.com/feed" htmlUrl="https://www.erininthemorning.com"/>
+      <outline title="In These Times" text="In These Times" description="In These Times" type="rss" xmlUrl="https://inthesetimes.com/rss" htmlUrl="https://inthesetimes.com/"/>
+      <outline title="Institute for Social Ecology" text="Institute for Social Ecology" description="Institute for Social Ecology" type="rss" xmlUrl="https://social-ecology.org/wp/feed/" htmlUrl="https://social-ecology.org/wp/"/>
+      <outline title="It's Going Down" text="It's Going Down" description="It's Going Down" type="rss" xmlUrl="https://itsgoingdown.org/feed" htmlUrl="https://itsgoingdown.org"/>
+      <outline title="Jewish Currents" text="Jewish Currents" description="Jewish Currents" type="rss" xmlUrl="https://jewishcurrents.org/feed" htmlUrl="https://jewishcurrents.org/"/>
+      <outline title="Jinx Press" text="Jinx Press" description="Jinx Press" type="rss" xmlUrl="https://jinxpress.org/rss.xml" htmlUrl="https://jinxpress.org/"/>
+      <outline title="Ken Klippenstein" text="Ken Klippenstein" description="Ken Klippenstein" type="rss" xmlUrl="https://www.kenklippenstein.com/feed" htmlUrl="https://www.kenklippenstein.com"/>
+      <outline title="Labor Notes" text="Labor Notes" description="Labor Notes" type="rss" xmlUrl="https://labornotes.org/feed" htmlUrl="https://labornotes.org/feed"/>
+      <outline title="LaborLab" text="LaborLab" description="LaborLab" type="rss" xmlUrl="https://laborlab.us/feed/" htmlUrl="https://laborlab.us/"/>
+      <outline title="Latest – Truthout" text="Latest – Truthout" description="Latest – Truthout" type="rss" xmlUrl="https://truthout.org/latest/feed/" htmlUrl="https://truthout.org"/>
+      <outline title="Left Coast Right Watch" text="Left Coast Right Watch" description="Left Coast Right Watch" type="rss" xmlUrl="https://leftcoastrightwatch.org/index.xml" htmlUrl="https://leftcoastrightwatch.org/"/>
+      <outline title="Literary  Hub" text="Literary  Hub" description="Literary  Hub" type="rss" xmlUrl="https://lithub.com/feed/" htmlUrl="https://lithub.com"/>
+      <outline title="Logic(s) Magazine" text="Logic(s) Magazine" description="Logic(s) Magazine" type="rss" xmlUrl="https://logicmag.io/rss.xml" htmlUrl="https://logicmag.io"/>
+      <outline title="Longreads" text="Longreads" description="Longreads" type="rss" xmlUrl="https://longreads.com/feed/" htmlUrl="https://longreads.com/"/>
+      <outline title="LOW←TECH MAGAZINE English" text="LOW←TECH MAGAZINE English" description="LOW←TECH MAGAZINE English" type="rss" xmlUrl="https://solar.lowtechmagazine.com/posts/index.xml" htmlUrl="https://solar.lowtechmagazine.com/posts/"/>
+      <outline title="MIT Technology Review" text="MIT Technology Review" description="MIT Technology Review" type="rss" xmlUrl="https://www.technologyreview.com/feed/" htmlUrl="https://www.technologyreview.com"/>
+      <outline title="Mondoweiss" text="Mondoweiss" description="Mondoweiss" type="rss" xmlUrl="https://mondoweiss.net/feed/" htmlUrl="https://mondoweiss.net"/>
+      <outline title="More Perfect Union" text="More Perfect Union" description="More Perfect Union" type="rss" xmlUrl="https://substack.perfectunion.us/feed" htmlUrl="https://substack.perfectunion.us"/>
+      <outline title="n+1Articles – n+1" text="n+1Articles – n+1" description="n+1Articles – n+1" type="rss" xmlUrl="https://www.nplusonemag.com/feed/" htmlUrl="https://www.nplusonemag.com"/>
+      <outline title="Nature" text="Nature" description="Nature" type="rss" xmlUrl="http://feeds.nature.com/nature/rss/current" htmlUrl="http://feeds.nature.com/nature/rss/current"/>
+      <outline title="Nerd Teacher" text="Nerd Teacher" description="Nerd Teacher" type="rss" xmlUrl="https://nerdteacher.com/feed/" htmlUrl="https://nerdteacher.com"/>
+      <outline title="New Economy Coalition" text="New Economy Coalition" description="New Economy Coalition" type="rss" xmlUrl="https://neweconomy.net/feed/" htmlUrl="https://neweconomy.net/"/>
+      <outline title="New Means" text="New Means" description="New Means" type="rss" xmlUrl="https://www.jphilll.com/feed" htmlUrl="https://www.jphilll.com"/>
+      <outline title="No Tech for Tyrants" text="No Tech for Tyrants" description="No Tech for Tyrants" type="rss" xmlUrl="https://notechfortyrants.org/feed/" htmlUrl="https://notechfortyrants.org"/>
+      <outline title="Open Culture" text="Open Culture" description="Open Culture" type="rss" xmlUrl="https://www.openculture.com/feed/rss2" htmlUrl="https://www.openculture.com/"/>
+      <outline title="Participatory Economy" text="Participatory Economy" description="Participatory Economy" type="rss" xmlUrl="https://participatoryeconomy.org/feed/" htmlUrl="https://participatoryeconomy.org"/>
+      <outline title="Popular Front" text="Popular Front" description="Popular Front" type="rss" xmlUrl="https://popularfront.libsyn.com/rss" htmlUrl="http://popularfront.co"/>
+      <outline title="Prison Journalism Project" text="Prison Journalism Project" description="Prison Journalism Project" type="rss" xmlUrl="https://prisonjournalismproject.org/feed/" htmlUrl="https://prisonjournalismproject.org/"/>
+      <outline title="Quanta Magazine" text="Quanta Magazine" description="Quanta Magazine" type="rss" xmlUrl="https://api.quantamagazine.org/feed/" htmlUrl="https://www.quantamagazine.org"/>
+      <outline title="Read - Hampton Institute" text="Read - Hampton Institute" description="Read - Hampton Institute" type="rss" xmlUrl="https://www.hamptonthink.org/read?format=rss" htmlUrl="https://www.hamptonthink.org/read/"/>
+      <outline title="Retraction Watch – Tracking retractions as a window into the scientific process" text="Retraction Watch – Tracking retractions as a window into the scientific process" description="Retraction Watch – Tracking retractions as a window into the scientific process" type="rss" xmlUrl="https://www.retractionwatch.com/feed/" htmlUrl="https://retractionwatch.com"/>
+      <outline title="San Diego Watcher" text="San Diego Watcher" description="San Diego Watcher" type="rss" xmlUrl="https://joeorephoto.substack.com/feed" htmlUrl="https://joeorephoto.substack.com"/>
+      <outline title="Scalawag" text="Scalawag" description="Scalawag" type="rss" xmlUrl="https://scalawagmagazine.org/feed/" htmlUrl="https://scalawagmagazine.org/"/>
+      <outline title="Science for the People Magazine" text="Science for the People Magazine" description="Science for the People Magazine" type="rss" xmlUrl="https://magazine.scienceforthepeople.org/feed/" htmlUrl="https://magazine.scienceforthepeople.org/"/>
+      <outline title="Science Magazine" text="Science Magazine" description="Science Magazine" type="rss" xmlUrl="https://www.science.org/rss/news_current.xml" htmlUrl="https://www.science.org"/>
+      <outline title="ScienceNews" text="ScienceNews" description="ScienceNews" type="rss" xmlUrl="https://www.sciencenews.org/feed" htmlUrl="https://www.sciencenews.org"/>
+      <outline title="Scientific American Content: Global" text="Scientific American Content: Global" description="Scientific American Content: Global" type="rss" xmlUrl="http://rss.sciam.com/ScientificAmerican-Global" htmlUrl="https://www.scientificamerican.com"/>
+      <outline title="SciTechDaily" text="SciTechDaily" description="SciTechDaily" type="rss" xmlUrl="https://feeds.feedburner.com/scitechdaily" htmlUrl="https://scitechdaily.com/"/>
+      <outline title="Shatter Zone" text="Shatter Zone" description="Shatter Zone" type="rss" xmlUrl="https://shatterzone.substack.com/feed" htmlUrl="https://shatterzone.substack.com"/>
+      <outline title="Slashdot" text="Slashdot" description="Slashdot" type="rss" xmlUrl="https://rss.slashdot.org/Slashdot/slashdotMain" htmlUrl="https://slashdot.org/"/>
+      <outline title="Source" text="Source" description="Source" type="rss" xmlUrl="https://source.opennews.org/rss/" htmlUrl="https://source.opennews.org/"/>
+      <outline title="Strange Matters" text="Strange Matters" description="Strange Matters" type="rss" xmlUrl="https://strangematters.coop/feed/" htmlUrl="https://strangematters.coop"/>
+      <outline title="Sunshine and Seedlings: A Newsletter by HydroponicTrash" text="Sunshine and Seedlings: A Newsletter by HydroponicTrash" description="Sunshine and Seedlings: A Newsletter by HydroponicTrash" type="rss" xmlUrl="https://anarchosolarpunk.substack.com/feed" htmlUrl="https://anarchosolarpunk.substack.com"/>
+      <outline title="Surveillance &amp; Society" text="Surveillance &amp; Society" description="Surveillance &amp; Society" type="rss" xmlUrl="https://ojs.library.queensu.ca/index.php/surveillance-and-society/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://ojs.library.queensu.ca/index.php/surveillance-and-society"/>
+      <outline title="Surviving Leviathan with Peter Gelderloos" text="Surviving Leviathan with Peter Gelderloos" description="Surviving Leviathan with Peter Gelderloos" type="rss" xmlUrl="https://petergelderloos.substack.com/feed" htmlUrl="https://petergelderloos.substack.com"/>
+      <outline title="Tech Policy Press" text="Tech Policy Press" description="Tech Policy Press" type="rss" xmlUrl="https://techpolicy.press/rss/feed.xml" htmlUrl="https://techpolicy.press"/>
+      <outline title="The Anarchist Library" text="The Anarchist Library" description="The Anarchist Library" type="rss" xmlUrl="https://theanarchistlibrary.org/feed" htmlUrl="https://theanarchistlibrary.org"/>
+      <outline title="The Atavist Magazine" text="The Atavist Magazine" description="The Atavist Magazine" type="rss" xmlUrl="https://magazine.atavist.com/feed/" htmlUrl="https://magazine.atavist.com/"/>
+      <outline title="The Column" text="The Column" description="The Column" type="rss" xmlUrl="https://www.columnblog.com/feed" htmlUrl="https://www.columnblog.com"/>
+      <outline title="The Edge of Space-Time" text="The Edge of Space-Time" description="The Edge of Space-Time" type="rss" xmlUrl="https://newsletter.chanda.science/rss" htmlUrl="https://news.chanda.science/"/>
+      <outline title="The Electronic Intifada" text="The Electronic Intifada" description="The Electronic Intifada" type="rss" xmlUrl="https://electronicintifada.net/rss.xml" htmlUrl="https://electronicintifada.net/frontpage"/>
+      <outline title="The Institute for Anarchist Studies" text="The Institute for Anarchist Studies" description="The Institute for Anarchist Studies" type="rss" xmlUrl="https://anarchiststudies.org/feed/" htmlUrl="https://anarchiststudies.org"/>
+      <outline title="The Intercept" text="The Intercept" description="The Intercept" type="rss" xmlUrl="https://theintercept.com/feed/?lang=en" htmlUrl="https://theintercept.com/"/>
+      <outline title="The Markup - All Stories" text="The Markup - All Stories" description="The Markup - All Stories" type="rss" xmlUrl="https://themarkup.org/feeds/rss.xml" htmlUrl="https://themarkup.org/"/>
+      <outline title="The Poor Prole's Almanac: Restoration Agroecology" text="The Poor Prole's Almanac: Restoration Agroecology" description="The Poor Prole's Almanac: Restoration Agroecology" type="rss" xmlUrl="https://poorprolesalmanac.substack.com/feed" htmlUrl="https://poorprolesalmanac.substack.com"/>
+      <outline title="The Pudding" text="The Pudding" description="The Pudding" type="rss" xmlUrl="https://pudding.cool/rss.xml" htmlUrl="https://pudding.cool"/>
+      <outline title="The Stopgap" text="The Stopgap" description="The Stopgap" type="rss" xmlUrl="https://www.thestopgap.net/rss/" htmlUrl="https://www.thestopgap.net/"/>
+      <outline title="The Sword And the Sandwich" text="The Sword And the Sandwich" description="The Sword And the Sandwich" type="rss" xmlUrl="https://buttondown.email/theswordandthesandwich/rss" htmlUrl="https://buttondown.email/theswordandthesandwich"/>
+      <outline title="Turkopticon" text="Turkopticon" description="Turkopticon" type="rss" xmlUrl="https://blog.turkopticon.net/?feed=rss2" htmlUrl="https://blog.turkopticon.net"/>
+      <outline title="UNICORN RIOT" text="UNICORN RIOT" description="UNICORN RIOT" type="rss" xmlUrl="http://unicornriot.ninja/feed" htmlUrl="https://unicornriot.ninja/"/>
+      <outline title="Wired" text="Wired" description="Wired" type="rss" xmlUrl="https://www.wired.com/rss/" htmlUrl="https://www.wired.com"/>
+      <outline title="xkcd" text="xkcd" description="xkcd" type="atom" xmlUrl="https://xkcd.com/atom.xml" htmlUrl="https://xkcd.com/"/>
+      <outline title="🏴 Anarchist Federation" text="🏴 Anarchist Federation" description="🏴 Anarchist Federation" type="rss" xmlUrl="https://www.anarchistfederation.net/feed/" htmlUrl="https://www.anarchistfederation.net"/>
+    </outline>
+  </body>
+</opml>
